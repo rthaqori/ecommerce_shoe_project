@@ -123,26 +123,17 @@ const HeaderNav = () => {
               </Link>
             </li>
             <li className="border-orange-600 transition-all duration-100 ease-in-out hover:border-b-2">
-              <Link
-                to="/"
-                className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600"
-              >
+              <Link className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600">
                 about
               </Link>
             </li>
             <li className="border-orange-600 transition-all duration-100 ease-in-out hover:border-b-2">
-              <Link
-                to="/"
-                className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600"
-              >
+              <Link className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600">
                 blog
               </Link>
             </li>
             <li className="border-orange-600 transition-all duration-100 ease-in-out hover:border-b-2">
-              <Link
-                to="/"
-                className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600"
-              >
+              <Link className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600">
                 contact
               </Link>
             </li>

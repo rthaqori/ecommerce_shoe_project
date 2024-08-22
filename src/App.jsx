@@ -10,7 +10,7 @@ import WishList from "./Components/WishList/WishList";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/ecommerce_shoe_project">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
