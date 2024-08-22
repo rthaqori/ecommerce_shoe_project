@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "7b3f6345-72bc-4c58-a7df-69aaf4e9c55f",
+    "name": "Air Max 270",
+    "priceInCents": 15000,
+    "description": "The Nike Air Max 270 features the first-ever Max Air unit created specifically for Nike Sportswear, with a dual-density foam midsole for plush cushioning.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Black",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cb1951e7-0600-4f7a-9b26-12be8cd2bd01/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/689d9244-f280-4e6e-a866-f068c34050d8/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/44fdb67b-6626-4463-85e3-8c181c75c8b1/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/44fdb67b-6626-4463-85e3-8c181c75c8b1/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4690b45f-7865-4bc7-ab24-3f61a888c58a/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b30fe313-8e49-4aa0-9678-deca68b34f95/W+AIR+MAX+270.png"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 8
+          },
+          {
+            "size": 9,
+            "availableItems": 9
+          }
+        ]
+      },
+      {
+        "color": "White",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/pyyixbczj6u5kiwhpjik/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4cc89daa-c394-4ad4-9214-262f9b1a065a/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/duyf28wd0kct2b4ol4xf/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/kwbianpnd3r0enjw7xq8/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/g8vd0obziukibvfpbm0t/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0f864ef9-9d52-4c47-a4b3-7754d92f00fc/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3fa05e11-6264-4041-8f1e-7a2320861cee/W+AIR+MAX+270.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 6
+          },
+          {
+            "size": 8,
+            "availableItems": 8
+          },
+          {
+            "size": 10,
+            "availableItems": 10
+          }
+        ]
+      },
+      {
+        "color": ["Red", "Cream"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/610ab405-6908-4832-b6b4-176bf2e30267/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6d4ff75-adcc-4d18-8e8d-4104b3a6938d/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd82f5b5-8c37-48b5-a7af-11282a083c98/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7833bb4-fc4c-48f6-b232-04329b951694/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32fdb600-0712-466e-82d0-c6b75a3bf3ab/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fc2be79-ac98-459d-836a-7ace5814149b/W+AIR+MAX+270.png"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 6
+          },
+          {
+            "size": 11,
+            "availableItems": 4
+          }
+        ]
+      },
+      {
+        "color": ["White", "Green"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee277c7b-7765-4b8a-bbc6-3393ea7c0631/AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7961eda5-6095-45aa-9392-7860dc55a653/AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c8537150-51e3-4959-8ebe-dc3290475fa9/AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4fd12abf-727b-41f5-9211-9e664235dde8/AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e8d7efa6-e85e-4907-b49e-74b035611b99/AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3325bf1-f522-4d90-a59b-2d5992e2b9ea/AIR+MAX+270.png"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 8
+          },
+          {
+            "size": 9,
+            "availableItems": 9
+          }
+        ]
+      },
+      {
+        "color": ["White", "Purple"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/307b2ede-dcf2-418d-a7d5-a3da12046d56/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/59c48e11-a9bc-4bce-808a-915f7a90b0e8/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6b7a0f0b-34e4-4188-ae00-187eb1ed6a50/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b70e7d12-2ede-4533-a97f-d1d9aa4b07c7/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0b5140a8-13a5-4372-8eec-68f0516f6bb6/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/020a83c0-db09-4f69-a8fc-32f712e3ff0e/W+AIR+MAX+270.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/098638b3-d8af-438f-8e4c-9612a0a8495c/W+AIR+MAX+270.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 12
+          },
+          {
+            "size": 9,
+            "availableItems": 4
+          },
+          {
+            "size": 12,
+            "availableItems": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d32db3bb-7885-4ad2-9e19-ea98a6b498a5",
+    "name": "Adidas Ultraboost 22",
+    "priceInCents": 18000,
+    "description": "The Ultraboost 22 is designed to help you achieve your personal best with a precise fit and premium comfort.",
+    "category": "Women's Shoe",
+    "colors": [
+      {
+        "color": "Black",
+        "images": [
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d63a3ef05e746a4abc2ad7800abd65f_9366/Ultraboost_22_Shoes_Black_GZ0127_06_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ae921bb08034aa2803fad7800abdd7f_9366/Ultraboost_22_Shoes_Black_GZ0127_02_standard_hover.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/659a5eb44a8747c397dbad7800abe68f_9366/Ultraboost_22_Shoes_Black_GZ0127_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ccfbacc1e64547029d9cad7800abfd6f_9366/Ultraboost_22_Shoes_Black_GZ0127_41_detail.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a7f9ddce96dd46fb9c06ad7800abf54c_9366/Ultraboost_22_Shoes_Black_GZ0127_05_standard.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 12
+          },
+          {
+            "size": 8,
+            "availableItems": 9
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f65357e4-c679-4a64-aef6-57d35a2b7b89",
+    "name": "Puma RS-X³",
+    "priceInCents": 12000,
+    "description": "The Puma RS-X³ takes the signature RS design to the third power, with a lightweight, breathable upper and bold colorways.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": ["Black", "White"],
+        "images": [
+          "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/372884/07/sv01/fnd/PNA/fmt/png/RS-X%C2%B3-Super-Men's-Sneakers",
+          "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/372884/07/fnd/PNA/fmt/png/RS-X%C2%B3-Super-Men's-Sneakers",
+          "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/372884/07/sv02/fnd/PNA/fmt/png/RS-X%C2%B3-Super-Men's-Sneakers",
+          "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/372884/07/sv03/fnd/PNA/fmt/png/RS-X%C2%B3-Super-Men's-Sneakers",
+          "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/372884/07/sv04/fnd/PNA/fmt/png/RS-X%C2%B3-Super-Men's-Sneakers"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 15
+          },
+          {
+            "size": 8,
+            "availableItems": 10
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bda9fcd4-b6de-4bda-88e4-ea104781be06",
+    "name": "New Balance 574",
+    "priceInCents": 11000,
+    "description": "The New Balance 574 is a timeless sneaker that combines vintage style with modern comfort.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Brown",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/ml574evm_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evm_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evm_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evm_nb_07_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evm_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 9
+          },
+          {
+            "size": 9,
+            "availableItems": 6
+          },
+          {
+            "size": 10,
+            "availableItems": 4
+          }
+        ]
+      },
+      {
+        "color": "Gray",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/ml574evg_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evg_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evg_nb_07_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evg_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evg_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "White",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/ml574evw_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evw_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evw_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evw_nb_07_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574evw_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/ml574eve_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574eve_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574eve_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574eve_nb_07_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/ml574eve_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "49f3b391-c297-4c1d-9be8-6812c5191a1b",
+    "name": "Converse Chuck Taylor All Star",
+    "priceInCents": 8000,
+    "description": "The iconic Converse Chuck Taylor All Star is a timeless sneaker that never goes out of style.",
+    "category": "Women's Shoe",
+    "colors": [
+      {
+        "color": "White",
+        "images": [
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwfbd1102a/images/c_08/M7650_C_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw211760a7/images/b_08/M7650_B_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwd3fcf655/images/d_08/M7650_D_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw313679bf/images/e_08/M7650_E_08X1.jpg?sw=406"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 14
+          },
+          {
+            "size": 7,
+            "availableItems": 12
+          },
+          {
+            "size": 8,
+            "availableItems": 10
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw6b1aae45/images/c_08/M9160_C_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw1835984b/images/b_08/M9160_B_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw8711f6cf/images/d_08/M9160_D_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw70b60dd1/images/e_08/M9160_E_08X1.jpg?sw=406"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 11
+          },
+          {
+            "size": 7,
+            "availableItems": 10
+          },
+          {
+            "size": 8,
+            "availableItems": 8
+          }
+        ]
+      },
+      {
+        "color": "Red",
+        "images": [
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw85201ea0/images/c_08/M9621_C_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwf43265c0/images/b_08/M9621_B_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwbadbc659/images/d_08/M9621_D_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwf3726383/images/e_08/M9621_E_08X1.jpg?sw=406"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 11
+          },
+          {
+            "size": 7,
+            "availableItems": 10
+          },
+          {
+            "size": 8,
+            "availableItems": 8
+          }
+        ]
+      },
+      {
+        "color": "Green",
+        "images": [
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw1dbaf977/images/c_08/A06563C_C_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw322a690b/images/b_08/A06563C_B_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwae13adc0/images/d_08/A06563C_D_08X1.jpg?sw=406",
+          "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwf6ef684f/images/e_08/A06563C_E_08X1.jpg?sw=406"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 11
+          },
+          {
+            "size": 7,
+            "availableItems": 10
+          },
+          {
+            "size": 8,
+            "availableItems": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24d2a6c5-29e4-4f2a-b08e-05cfecb41dbe",
+    "name": "Vans Old Skool",
+    "priceInCents": 7000,
+    "description": "The Vans Old Skool is a classic skate shoe with the iconic side stripe, durable canvas, and suede upper.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Black",
+        "images": [
+          "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/07/e5/80/1d64ef10f4e08dbce29b81d517/tenis-vans-old-skool-plataforma-black-white-large-1.jpg",
+          "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-700,h-1050,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/69/9d/5f/0f67527c8cdeac2d74a66e2d20/tenis-vans-old-skool-plataforma-black-white-4.jpg",
+          "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/58/4c/b0/a0c2e1b0847448619cbfce5e89/tenis-vans-old-skool-plataforma-black-white-large-1.jpg",
+          "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-1100,h-1594,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/2b/8f/da/69e7f7edf7da369834bdeb5ecc/tenis-vans-old-skool-plataforma-black-white-large-2.jpg",
+          "https://adaptive-images.uooucdn.com.br/ik-seo/tr:w-700,h-1050,c-at_max,pr-true,q-80/a22343-ogxys3ltwt0/pv/5f/9e/50/4337eb36af7d896c4d4378784b/tenis-vans-old-skool-plataforma-black-white-3.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 13
+          },
+          {
+            "size": 9,
+            "availableItems": 11
+          },
+          {
+            "size": 10,
+            "availableItems": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f8c8a5d1-08f2-4e5e-bb45-3d3b09d56de4",
+    "name": "Nike Air Force 1",
+    "priceInCents": 10000,
+    "description": "The Nike Air Force 1 is a legendary sneaker that delivers a clean, classic look with premium cushioning.",
+    "category": "Women's Shoe",
+    "colors": [
+      {
+        "color": "White",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3cc96f43-47b6-43cb-951d-d8f73bb2f912/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a0a300da-2e16-4483-ba64-9815cf0598ac/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82aa97ed-98bf-4b6f-9d0b-31a9f907077b/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ef92df87-6098-4fa5-bc88-7107492febcf/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/120a31b0-efa7-41c7-9a84-87b1e56ab9c3/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c1e5f55-99c2-4522-b398-2352e01ba566/AIR+FORCE+1+%2707.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 12
+          },
+          {
+            "size": 7,
+            "availableItems": 10
+          },
+          {
+            "size": 8,
+            "availableItems": 8
+          }
+        ]
+      },
+      {
+        "color": ["Black", "White"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d762c5e2-ae49-4208-99df-484594b51e5f/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fcfed7da-5ef1-4949-a969-bf67c97d9fb8/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fcfed7da-5ef1-4949-a969-bf67c97d9fb8/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3570fc97-5d2c-4c92-a71d-194fa93884f4/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/af5509b3-1389-4526-9087-73e2e05aa51e/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb2488fe-1b41-4edb-8112-c78c167db8ed/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb2488fe-1b41-4edb-8112-c78c167db8ed/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c9662a3-cb63-4af1-b15f-363b865400dc/AIR+FORCE+1+%2707.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 9
+          },
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": ["White", "Black"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/350e7f3a-979a-402b-9396-a8a998dd76ab/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/52f79949-3584-4800-899c-0d5ff828f5e4/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f2e2833a-49e2-4088-b77e-4e4a5be53ae7/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f2e2833a-49e2-4088-b77e-4e4a5be53ae7/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dce93a1d-ebcb-4300-b8cf-f71da0820ea1/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/619f4371-99ff-44cd-8b13-6c2e699e90c1/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04c4cb92-0272-4c0f-bb53-30b833f044e0/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4eb3370f-c1ca-47d1-927f-49b4e1545dc9/AIR+FORCE+1+%2707.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 9
+          },
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fc4622c4-2769-4665-aa6e-42c974a7705e/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ac482bd-f8e4-4d59-a652-4a50de7dbce5/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ac482bd-f8e4-4d59-a652-4a50de7dbce5/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c331ff82-87dd-453f-b6d4-1c81ef5e29aa/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/900c2ac8-8a3e-45f7-aac7-c92ccce8505a/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ddec7bcc-6100-4d27-ac7c-d15771e1780e/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/364d6a11-fad9-4a21-a763-59e458e41463/AIR+FORCE+1+%2707.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f430f78b-6107-4c30-a4b2-f6df4fd228be/AIR+FORCE+1+%2707.png"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 9
+          },
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5ac7e9c4-8a02-4238-90f0-e7a5d0d7d107",
+    "name": "Reebok Club C 85",
+    "priceInCents": 8500,
+    "description": "The Reebok Club C 85 offers a clean, minimalist design with soft leather upper for superior comfort.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "White",
+        "images": [
+          "https://images.reebok.eu/reebok-club-c-85-shoes_19729666_44840525_1000.jpg?c=1",
+          "https://images.reebok.eu/reebok-club-c-85-shoes_19729666_44840525_1000.jpg?c=1",
+          "https://images.reebok.eu/reebok-club-c-85-shoes_19729666_44840554_300.jpg?c=1",
+          "https://images.reebok.eu/reebok-club-c-85-shoes_19729666_44840523_300.jpg?c=1",
+          "https://images.reebok.eu/reebok-club-c-85-shoes_19729666_44840554_300.jpg?c=1"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 10
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b42a62b2-04cb-4d96-b1b7-cc2569ff4b9f",
+    "name": "Adidas Superstar",
+    "priceInCents": 9000,
+    "description": "The Adidas Superstar is a timeless sneaker with a leather upper and rubber shell toe for enhanced durability.",
+    "category": "Women's Shoe",
+    "colors": [
+      {
+        "color": ["White", "Red"],
+        "images": [
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/056818a70dc04d5faa8b4c1e8bca8e02_9366/Superstar_Shoes_White_JH6350_06_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/62bd6220bd874c37940d718fdb6df0e4_9366/Superstar_Shoes_White_JH6350_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbe6ff1964db4db3a761fe0cf7dae5ce_9366/Superstar_Shoes_White_JH6350_02_standard_hover.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bec5202ccd8f4ffd8a7f380e2e3e20e6_9366/Superstar_Shoes_White_JH6350_04_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/73749adc56a8440d83f34e067a951e68_9366/Superstar_Shoes_White_JH6350_41_detail.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e2ee9064e56e43bd8347bf1141a87d26_9366/Superstar_Shoes_White_JH6350_42_detail.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 10
+          },
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": "White",
+        "images": [
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd4edcfc54e24806910cbcfacafb3ae8_9366/Superstar_Shoes_White_IF7615_06_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a37bee52be76405097c8672e112c7b06_9366/Superstar_Shoes_White_IF7615_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a37bee52be76405097c8672e112c7b06_9366/Superstar_Shoes_White_IF7615_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/94be959e23044e3c880bd3623170475d_9366/Superstar_Shoes_White_IF7615_05_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/15526bf724cd4f1393603a700a282d5a_9366/Superstar_Shoes_White_IF7615_04_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7fe77010d7994475b4160a4a2068469e_9366/Superstar_Shoes_White_IF7615_42_detail.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 9
+          },
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": ["White", "Mint"],
+        "images": [
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/053a233d9e0740dabc3f1302ee529f3b_9366/Superstar_Shoes_White_IG2218_06_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bfcc5a1b139492ba8c657fc30bce554_9366/Superstar_Shoes_White_IG2218_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bfcc5a1b139492ba8c657fc30bce554_9366/Superstar_Shoes_White_IG2218_03_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1ff135476874284b45d876e920d7ff8_9366/Superstar_Shoes_White_IG2218_04_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7a5dbea9960c45649e81b7296dc77891_9366/Superstar_Shoes_White_IG2218_05_standard.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/61888ad432344c6b9cc2b8131643b42b_9366/Superstar_Shoes_White_IG2218_41_detail.jpg",
+          "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ba9b86dc7f8e456a8452743c9309bb8b_9366/Superstar_Shoes_White_IG2218_42_detail.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 9
+          },
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f1df73bb-8026-4c23-8e8a-9d6a52a2f171",
+    "name": "Nike InfinityRN 4 GORE-TEX",
+    "priceInCents": 16000,
+    "description": "The Nike InfinityRN 4 GORE-TEX is designed to reduce injury with its supportive and cushioned design.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": ["Cream", "Orange"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7bc4e6d9-464d-4eab-b760-4fd4da43750c/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dcb80ebe-154c-4e51-9968-5978e8301b25/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61a71bac-357a-4dc2-b158-1924ca38d7dd/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/81251bed-074c-4402-9f3b-a4eddb2e30c5/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/28995e59-5bd3-44ae-93bc-e8e9946e7f3d/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3c1791e8-0960-4aa9-9e73-71f71861b7fe/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/719cdae6-de24-450b-8899-f96b9b3d08b9/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/260f06b0-eb5c-4481-8c72-8d62009039fe/REACTX+INFINITY+RN+4+GTX+DNU.png"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          },
+          {
+            "size": 11,
+            "availableItems": 3
+          }
+        ]
+      },
+      {
+        "color": ["Black", "White"],
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c97f2721-3a96-432b-8e1b-ad9b2f304337/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/49500177-3565-4f5a-8aae-ac8302ed3ee9/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a29dcb8f-c0f2-40f0-aeb6-736121b14631/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7e2e558f-d60a-4b1d-8db2-8a3b67598d9b/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2546c22-21f6-4f6e-928f-81f858b0ca71/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/176f611b-54be-469b-8a06-c1ab8f779c52/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/11400c22-0a67-45e0-a277-658236417fcc/REACTX+INFINITY+RN+4+GTX+DNU.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9d8a7912-977e-48fe-adff-f8b489de890e/REACTX+INFINITY+RN+4+GTX+DNU.png"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 8
+          },
+          {
+            "size": 10,
+            "availableItems": 6
+          },
+          {
+            "size": 11,
+            "availableItems": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6be3abcf-3be7-4414-9ac3-8c2b8f8e2c26",
+    "name": "UA FLOW FUTR X 4",
+    "priceInCents": 14000,
+    "description": "The UUA FLOW FUTR X 4 is a high-performance sneaker that provides zero-gravity feel to maintain energy return.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "White",
+        "images": [
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-220240820101140296.jpeg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-320240820101140874.jpeg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-420240820101141182.jpeg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-520240820101142098.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 10
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": ["White", "Black"],
+        "images": [
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-220240819121402542.jpg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-320240819121403875.jpg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-420240819121403960.jpg",
+          "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/13.5-520240819121404321.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 6
+          },
+          {
+            "size": 10,
+            "availableItems": 4
+          },
+          {
+            "size": 11,
+            "availableItems": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "91f31a34-eda5-4ec9-9314-dc4b19de2d56",
+    "name": "Asics Gel-Kayano 27",
+    "priceInCents": 15500,
+    "description": "The Asics Gel-Kayano 27 offers superior support and comfort, ideal for long-distance runs.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Black",
+        "images": [
+          "https://images.asics.com/is/image/asics/1011A767_001_SR_LT_GLB?$zoom$",
+          "https://images.asics.com/is/image/asics/1011A767_001_SB_BT_GLB?$zoom$",
+          "https://images.asics.com/is/image/asics/1011A767_001_SB_TP_GLB?$zoom$",
+          "https://images.asics.com/is/image/asics/1011A767_001_SB_FR_GLB?$sfcc-product$",
+          "https://images.asics.com/is/image/asics/1011A767_001_SB_BK_GLB?$zoom$"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 9
+          },
+          {
+            "size": 10,
+            "availableItems": 6
+          },
+          {
+            "size": 11,
+            "availableItems": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "93a4fbe3-195f-4636-b0ef-0de1be9e1be3",
+    "name": "Saucony Endorphin Speed 2",
+    "priceInCents": 16000,
+    "description": "The Saucony Endorphin Speed 2 is engineered for speed with lightweight cushioning and a responsive ride.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Blue",
+        "images": [
+          "https://c.media-amazon.com/images/I/61RE7jCQxYL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/51BJ2ahnPmL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61BYvCkjyOL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61AHsvCwSdL._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 12
+          },
+          {
+            "size": 9,
+            "availableItems": 9
+          },
+          {
+            "size": 10,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": "Yellow",
+        "images": [
+          "https://c.media-amazon.com/images/I/51VaisrHSsL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/512QzWj2jQL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/51dmHSQjyUL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61oVe324s3L._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 11
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Orange",
+        "images": [
+          "https://c.media-amazon.com/images/I/51aX-DYHN8L._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/414v1m1BQGL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61li2Y5DKeL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61LS9ZU6UzL._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 11
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Gray",
+        "images": [
+          "https://c.media-amazon.com/images/I/51HvS7b3rvL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/51GvYNHUExL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61QfiVriBIL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/817wI8xEvZL._AC_SX695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 11
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://c.media-amazon.com/images/I/61830OabfGS._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61d7CdE0ORS._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/61JJG4nD5gS._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81pwJAvgqrS._AC_SX695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 8,
+            "availableItems": 11
+          },
+          {
+            "size": 9,
+            "availableItems": 7
+          },
+          {
+            "size": 10,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12a5e739-d0cb-4040-9933-518dce56e195",
+    "name": "Speedgoat 5 GTX",
+    "priceInCents": 14000,
+    "description": "The Speedgoat 5 GTX provides a lightweight and smooth ride with maximum comfort.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Red",
+        "images": [
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596766/catalog/images/transparent/1127912-FTHY_1.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596776/catalog/images/transparent/1127912-FTHY_4.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596772/catalog/images/transparent/1127912-FTHY_3.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596769/catalog/images/transparent/1127912-FTHY_2.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596778/catalog/images/transparent/1127912-FTHY_5.png?_s=RAABAB0"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          },
+          {
+            "size": 9,
+            "availableItems": 4
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596740/catalog/images/transparent/1127912-BBLC_1.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596750/catalog/images/transparent/1127912-BBLC_4.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596747/catalog/images/transparent/1127912-BBLC_3.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596744/catalog/images/transparent/1127912-BBLC_2.png?_s=RAABAB0",
+          "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_966/v1668596744/catalog/images/transparent/1127912-BBLC_2.png?_s=RAABAB0"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 7
+          },
+          {
+            "size": 8,
+            "availableItems": 5
+          },
+          {
+            "size": 9,
+            "availableItems": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "462158a4-57e1-4cf2-9f12-1d8a206f01f3",
+    "name": "Brooks Ghost 14",
+    "priceInCents": 13000,
+    "description": "The Brooks Ghost 14 offers smooth transitions and soft cushioning for a comfortable run.",
+    "category": "Women's Shoe",
+    "colors": [
+      {
+        "color": "Green",
+        "images": [
+          "https://c.media-amazon.com/images/I/81HwHY-6fxL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81hzMub9HoL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81MzJ7DuxBL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/818PXuX-w4L._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81Gxrvk9dWL._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 10
+          },
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": "Red",
+        "images": [
+          "https://c.media-amazon.com/images/I/81SbeoIlqQL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81MjzaQvvxL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81RF0DYLZuL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/816dKStmnQL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81kkJvD0ptL._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 9
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Gray",
+        "images": [
+          "https://c.media-amazon.com/images/I/81uhB6iP3VL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81xL49RAUlL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81UWJyENPhL._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81GFYQujg0L._AC_SY695_.jpg",
+          "https://c.media-amazon.com/images/I/81zO6vOsDhL._AC_SY695_.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 9
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6d21f7f7-f06d-4ebf-a4eb-8f5c0c2ebf1f",
+    "name": "Mizuno Wave Rider 25",
+    "priceInCents": 14500,
+    "description": "The Mizuno Wave Rider 25 provides a smooth ride with enhanced cushioning and support.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe1/main2.jpg",
+          "https://example.com/mizuno-wave-rider25-white-1.jpg",
+          "https://example.com/mizuno-wave-rider25-white-2.jpg",
+          "https://example.com/mizuno-wave-rider25-white-3.jpg",
+          "https://example.com/mizuno-wave-rider25-white-4.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 8
+          },
+          {
+            "size": 10,
+            "availableItems": 6
+          },
+          {
+            "size": 11,
+            "availableItems": 4
+          }
+        ]
+      },
+      {
+        "color": "Black",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe1/main2.jpg",
+          "https://example.com/mizuno-wave-rider25-black-1.jpg",
+          "https://example.com/mizuno-wave-rider25-black-2.jpg",
+          "https://example.com/mizuno-wave-rider25-black-3.jpg",
+          "https://example.com/mizuno-wave-rider25-black-4.jpg"
+        ],
+        "sizes": [
+          {
+            "size": 9,
+            "availableItems": 9
+          },
+          {
+            "size": 10,
+            "availableItems": 7
+          },
+          {
+            "size": 11,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d4c524fc-f108-48b7-9732-3e3e2f23e057",
+    "name": "Fresh Foam X 1080v13",
+    "priceInCents": 15000,
+    "description": "The New Balance Fresh Foam X 1080v13 delivers luxurious comfort and premium cushioning with every step.",
+    "category": "Men's Shoe",
+    "colors": [
+      {
+        "color": "Lime",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/m1080abb_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080abb_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080abb_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080abb_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 6,
+            "availableItems": 12
+          },
+          {
+            "size": 7,
+            "availableItems": 9
+          },
+          {
+            "size": 8,
+            "availableItems": 6
+          }
+        ]
+      },
+      {
+        "color": "Gold",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/m108013d_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m108013d_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m108013d_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m108013d_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      },
+      {
+        "color": "Gray",
+        "images": [
+          "https://nb.scene7.com/is/image/NB/m1080aff_nb_03_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080aff_nb_06_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080aff_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080aff_nb_04_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880",
+          "https://nb.scene7.com/is/image/NB/m1080aff_nb_07_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=880&hei=880"
+        ],
+        "sizes": [
+          {
+            "size": 7,
+            "availableItems": 8
+          },
+          {
+            "size": 8,
+            "availableItems": 7
+          },
+          {
+            "size": 9,
+            "availableItems": 5
+          }
+        ]
+      }
+    ]
+  }
+]

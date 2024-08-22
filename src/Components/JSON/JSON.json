@@ -1,0 +1,638 @@
+[
+  {
+    "id": "1a2b3c4d",
+    "name": "Air Zoom Pegasus 38",
+    "description": "The Nike Air Zoom Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor. Breathable mesh in the upper combines the comfort and durability you want with a wider fit at the toes.",
+    "categories": ["Men", "Performance"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe1/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Black/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe1/black2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/Orange",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/w_592,f_auto,q_auto:eco,b_rgb:f5f5f5/2b4bbf0c-d59f-4706-ae09-ab4d77c00684/stride-mens-dri-fit-5-brief-lined-running-shorts-g9m76X.png",
+          "https://example.com/images/shoe1/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 10
+      },
+      {
+        "size": "8",
+        "availableItems": 15
+      },
+      {
+        "size": "9",
+        "availableItems": 8
+      }
+    ],
+    "priceInCents": 12000,
+    "totalItems": 33,
+    "reviews": {
+      "totalNumber": 120,
+      "starRatings": {
+        "5": 80,
+        "4": 30,
+        "3": 5,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.5
+    }
+  },
+  {
+    "id": "2e3f4g5h",
+    "name": "UltraBoost 21",
+    "description": "The Adidas UltraBoost 21 brings the ultimate energy return with its responsive Boost midsole. The shoe's upper is made with recycled materials, making it a sustainable choice.",
+    "categories": ["Running", "Sustainability"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe2/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe2/white2.jpg"
+        ]
+      },
+      {
+        "color": "Red",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe2/black2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "8",
+        "availableItems": 12
+      },
+      {
+        "size": "9",
+        "availableItems": 14
+      },
+      {
+        "size": "10",
+        "availableItems": 7
+      }
+    ],
+    "priceInCents": 18000,
+    "totalItems": 33,
+    "reviews": {
+      "totalNumber": 200,
+      "starRatings": {
+        "5": 150,
+        "4": 35,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.7
+    }
+  },
+  {
+    "id": "3g4h5i6j",
+    "name": "Gel-Kayano 27",
+    "description": "The ASICS Gel-Kayano 27 is designed for overpronators seeking a stable ride. The shoe offers a combination of cushioning and support for long-distance runs.",
+    "categories": ["Running", "Men", "Stability"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe3/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Gray/Orange",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe3/gray2.jpg"
+        ]
+      },
+      {
+        "color": "Black/Yellow",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe3/black2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "9",
+        "availableItems": 9
+      },
+      {
+        "size": "10",
+        "availableItems": 12
+      },
+      {
+        "size": "11",
+        "availableItems": 5
+      }
+    ],
+    "priceInCents": 16000,
+    "totalItems": 26,
+    "reviews": {
+      "totalNumber": 150,
+      "starRatings": {
+        "5": 100,
+        "4": 35,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.6
+    }
+  },
+  {
+    "id": "4i5j6k7l",
+    "name": "New Balance 1080v11",
+    "description": "The New Balance Fresh Foam 1080v11 offers plush cushioning for those seeking comfort on long runs. The engineered mesh upper provides breathability and a secure fit.",
+    "categories": ["Running", "Women", "Cushioning"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe4/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Pink/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe4/pink2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/Gray",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe4/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 13
+      },
+      {
+        "size": "8",
+        "availableItems": 15
+      },
+      {
+        "size": "9",
+        "availableItems": 10
+      }
+    ],
+    "priceInCents": 15000,
+    "totalItems": 38,
+    "reviews": {
+      "totalNumber": 180,
+      "starRatings": {
+        "5": 130,
+        "4": 30,
+        "3": 10,
+        "2": 5,
+        "1": 5
+      },
+      "averageRating": 4.6
+    }
+  },
+  {
+    "id": "5k6l7m8n",
+    "name": "Hoka One One Clifton 7",
+    "description": "The Hoka One One Clifton 7 is known for its lightweight construction and cushioned ride. It’s a great option for neutral runners seeking a balanced shoe.",
+    "categories": ["Running", "Women", "Neutral"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe5/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Black/Purple",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe5/black2.jpg"
+        ]
+      },
+      {
+        "color": "White/Blue",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe5/white2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 8
+      },
+      {
+        "size": "8",
+        "availableItems": 12
+      },
+      {
+        "size": "9",
+        "availableItems": 7
+      }
+    ],
+    "priceInCents": 14000,
+    "totalItems": 27,
+    "reviews": {
+      "totalNumber": 160,
+      "starRatings": {
+        "5": 120,
+        "4": 25,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.7
+    }
+  },
+  {
+    "id": "6m7n8o9p",
+    "name": "Brooks Ghost 13",
+    "description": "The Brooks Ghost 13 is a reliable daily trainer, offering a smooth and balanced ride. It’s a versatile option for both beginners and experienced runners.",
+    "categories": ["Running", "Men", "Neutral"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe6/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Black/Gray",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe6/black2.jpg"
+        ]
+      },
+      {
+        "color": "Navy/Blue",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe6/navy2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "8",
+        "availableItems": 10
+      },
+      {
+        "size": "9",
+        "availableItems": 15
+      },
+      {
+        "size": "10",
+        "availableItems": 12
+      }
+    ],
+    "priceInCents": 13000,
+    "totalItems": 37,
+    "reviews": {
+      "totalNumber": 190,
+      "starRatings": {
+        "5": 140,
+        "4": 35,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.6
+    }
+  },
+  {
+    "id": "7o8p9q0r",
+    "name": "Saucony Ride 14",
+    "description": "The Saucony Ride 14 is a versatile and dependable shoe that offers a smooth and responsive ride. It’s designed for neutral runners looking for a comfortable and durable shoe.",
+    "categories": ["Running", "Women", "Neutral"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe7/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Gray/Pink",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe7/gray2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe7/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 10
+      },
+      {
+        "size": "8",
+        "availableItems": 14
+      },
+      {
+        "size": "9",
+        "availableItems": 12
+      }
+    ],
+    "priceInCents": 12500,
+    "totalItems": 36,
+    "reviews": {
+      "totalNumber": 170,
+      "starRatings": {
+        "5": 130,
+        "4": 25,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.7
+    }
+  },
+  {
+    "id": "8p9q0r1s",
+    "name": "Nike React Infinity Run Flyknit",
+    "description": "The Nike React Infinity Run Flyknit is designed to reduce injuries and keep you on the run. With its lightweight and durable Flyknit upper, this shoe offers a supportive and stable ride.",
+    "categories": ["Running", "Men", "Stability"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe8/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Black/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe8/black2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/Green",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe8/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "8",
+        "availableItems": 12
+      },
+      {
+        "size": "9",
+        "availableItems": 16
+      },
+      {
+        "size": "10",
+        "availableItems": 11
+      }
+    ],
+    "priceInCents": 16000,
+    "totalItems": 39,
+    "reviews": {
+      "totalNumber": 210,
+      "starRatings": {
+        "5": 170,
+        "4": 30,
+        "3": 7,
+        "2": 2,
+        "1": 1
+      },
+      "averageRating": 4.8
+    }
+  },
+  {
+    "id": "9q0r1s2t",
+    "name": "Mizuno Wave Rider 24",
+    "description": "The Mizuno Wave Rider 24 is known for its smooth and cushioned ride. This shoe is ideal for neutral runners seeking comfort and durability for daily runs.",
+    "categories": ["Running", "Men", "Neutral"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe9/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Navy/Yellow",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe9/navy2.jpg"
+        ]
+      },
+      {
+        "color": "Gray/Blue",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe9/gray2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "8",
+        "availableItems": 10
+      },
+      {
+        "size": "9",
+        "availableItems": 13
+      },
+      {
+        "size": "10",
+        "availableItems": 10
+      }
+    ],
+    "priceInCents": 14500,
+    "totalItems": 33,
+    "reviews": {
+      "totalNumber": 150,
+      "starRatings": {
+        "5": 100,
+        "4": 35,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.6
+    }
+  },
+  {
+    "id": "0r1s2t3u",
+    "name": "On Cloud X",
+    "description": "The On Cloud X is a versatile and lightweight shoe, perfect for a variety of workouts. It’s a great choice for those looking for a responsive and comfortable shoe.",
+    "categories": ["Running", "Women", "Versatility"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe10/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Black/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe10/black2.jpg"
+        ]
+      },
+      {
+        "color": "Pink/Gray",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe10/pink2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 11
+      },
+      {
+        "size": "8",
+        "availableItems": 15
+      },
+      {
+        "size": "9",
+        "availableItems": 9
+      }
+    ],
+    "priceInCents": 14000,
+    "totalItems": 35,
+    "reviews": {
+      "totalNumber": 160,
+      "starRatings": {
+        "5": 120,
+        "4": 30,
+        "3": 5,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.7
+    }
+  },
+  {
+    "id": "1s2t3u4v",
+    "name": "Salomon Speedcross 5",
+    "description": "The Salomon Speedcross 5 is a trail running shoe designed for grip, stability, and protection. It’s an excellent choice for runners tackling challenging terrains.",
+    "categories": ["Running", "Men", "Trail"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe11/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Red/Black",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe11/red2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe11/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "8",
+        "availableItems": 10
+      },
+      {
+        "size": "9",
+        "availableItems": 14
+      },
+      {
+        "size": "10",
+        "availableItems": 12
+      }
+    ],
+    "priceInCents": 13500,
+    "totalItems": 36,
+    "reviews": {
+      "totalNumber": 180,
+      "starRatings": {
+        "5": 140,
+        "4": 25,
+        "3": 10,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.8
+    }
+  },
+  {
+    "id": "2t3u4v5w",
+    "name": "Hoka One One Clifton 7",
+    "description": "The Hoka One One Clifton 7 is known for its plush cushioning and lightweight design, making it a favorite among long-distance runners.",
+    "categories": ["Running", "Women", "Cushioning"],
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+      "https://example.com/images/shoe12/main2.jpg"
+    ],
+    "colors": [
+      {
+        "color": "Pink/White",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe12/pink2.jpg"
+        ]
+      },
+      {
+        "color": "Blue/Gray",
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg",
+          "https://example.com/images/shoe12/blue2.jpg"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "size": "7",
+        "availableItems": 13
+      },
+      {
+        "size": "8",
+        "availableItems": 14
+      },
+      {
+        "size": "9",
+        "availableItems": 12
+      }
+    ],
+    "priceInCents": 15000,
+    "totalItems": 39,
+    "reviews": {
+      "totalNumber": 200,
+      "starRatings": {
+        "5": 160,
+        "4": 30,
+        "3": 5,
+        "2": 3,
+        "1": 2
+      },
+      "averageRating": 4.9
+    }
+  }
+]
