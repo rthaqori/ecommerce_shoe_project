@@ -1,5 +1,4 @@
 import React from "react";
-import Container from "../Utils/Container";
 import { motion } from "framer-motion";
 
 const HeroSection = () => {
@@ -40,7 +39,7 @@ const HeroSection = () => {
         <div className="absolute left-24 top-24 -z-[11] h-[425px] w-[425px] rounded-full bg-[#fdeee9]"></div>
         <img
           className="relative -left-28 -top-2 -z-10 w-[675px] -rotate-30"
-          src="assets/heroImg.png"
+          src="./assets/heroImg.png"
           alt="heroImg"
         />
       </div>

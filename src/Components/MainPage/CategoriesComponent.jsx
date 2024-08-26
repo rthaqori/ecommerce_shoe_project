@@ -6,17 +6,17 @@ const CategoriesComponent = () => {
     {
       id: 1,
       name: "Women's Shoes",
-      Image: "assets/WomensCollectionImg.webp",
+      Image: "./assets/WomensCollectionImg.webp",
     },
     {
       id: 2,
       name: "Men's Shoes",
-      Image: "assets/MensCollectionImg.webp",
+      Image: "./assets/MensCollectionImg.webp",
     },
     {
       id: 3,
       name: "Collection",
-      Image: "assets/collectionImg.webp",
+      Image: "./assets/collectionImg.webp",
     },
   ];
   return (

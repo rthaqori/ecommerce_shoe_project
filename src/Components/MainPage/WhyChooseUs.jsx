@@ -7,7 +7,7 @@ const WhyChooseUs = () => {
       <div className="flex h-full w-2/5 justify-center">
         <img
           className="h-full origin-top rounded-xl object-contain"
-          src="assets/shoeImg.png"
+          src="./assets/shoeImg.png"
           alt=""
         />
       </div>

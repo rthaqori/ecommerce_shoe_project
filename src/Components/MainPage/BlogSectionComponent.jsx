@@ -7,21 +7,21 @@ const BlogSectionComponent = () => {
       title: "Latest News Are On Top All Times",
       content:
         "I got my first premium designer bag when I was in middle school. It was something I wished for, pined for, dreamed...",
-      Image: "assets/blogImg1.webp",
+      Image: "./assets/blogImg1.webp",
     },
     {
       id: 2,
       title: "The most useful things for you",
       content:
         "What Is Your Favorite Non-Premium Designer Bag? I got my first premium designer bag when I was in middle school. It was... ",
-      Image: "assets/blogImg2.webp",
+      Image: "./assets/blogImg2.webp",
     },
     {
       id: 3,
       title: "Do you really understand yourself",
       content:
         "I got my first premium designer bag when I was in middle school. It was something I wished for, pined for, dreamed...",
-      Image: "assets/blogImg3.jpg",
+      Image: "./assets/blogImg3.jpg",
     },
   ];
   return (

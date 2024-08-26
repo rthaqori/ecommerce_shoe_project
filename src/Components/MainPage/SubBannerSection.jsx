@@ -7,14 +7,14 @@ const SubBannerSection = () => {
       title: "Men's Shoes",
       description:
         "Our beauty box is a set of best full-size products that are top sellers in out online shop.",
-      image: "assets/imgBannerMen.webp",
+      image: "./assets/imgBannerMen.webp",
     },
     {
       id: 2,
       title: "Women's Shoes",
       description:
         "Our beauty box is a set of best full-size products that are top sellers in out online shop.",
-      image: "assets/imgBannerWomen.webp",
+      image: "./assets/imgBannerWomen.webp",
     },
   ];
   return (
