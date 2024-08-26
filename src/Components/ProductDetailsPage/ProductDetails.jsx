@@ -116,8 +116,10 @@ const ProductDetails = () => {
                   <li
                     key={sizeIndex}
                     onClick={() => handleSizeClick(size.size)}
-                    className={`text-heading mb-2 mr-2 flex h-9 w-9 cursor-pointer items-center justify-center rounded border border-gray-300 p-1 text-xs font-semibold uppercase transition duration-200 ease-in-out hover:border-black md:mb-3 md:mr-3 md:h-11 md:w-11 md:text-sm ${
-                      selectedSize === size.size ? "border-black" : ""
+                    className={`text-heading mb-2 mr-2 flex h-9 w-9 cursor-pointer items-center justify-center rounded border p-1 text-xs font-semibold uppercase transition duration-200 ease-in-out hover:border-black md:mb-3 md:mr-3 md:h-11 md:w-11 md:text-sm ${
+                      selectedSize === size.size
+                        ? "border-black"
+                        : "border-gray-300"
                     }`}
                   >
                     {size.size}
