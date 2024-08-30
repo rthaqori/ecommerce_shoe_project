@@ -124,7 +124,7 @@ const Cart = () => {
               <div className="flex h-40 flex-col items-center justify-center gap-3">
                 <p className="text-lg text-gray-600">Your cart is empty</p>
                 <Link
-                  to="/shop"
+                  to="/product"
                   className="rounded-full border border-gray-300 px-4 py-2 text-gray-700 transition-colors duration-200 ease-in-out hover:border-black hover:text-black"
                 >
                   Continue Shopping
@@ -237,7 +237,8 @@ const Card = ({
                 </span>
               </p>
             </Link>
-            <p className="text-sm">
+
+            <p>
               Quantity{" "}
               <select
                 className="w-12 cursor-pointer"

@@ -70,7 +70,7 @@ const WishList = () => {
         <div className="my-10 flex justify-center md:justify-end">
           <Link
             className="flex h-10 items-center justify-center rounded-lg bg-black px-8 py-2 font-medium text-white hover:bg-gray-900"
-            to="/shop"
+            to="/product"
           >
             Continue Shopping
           </Link>
