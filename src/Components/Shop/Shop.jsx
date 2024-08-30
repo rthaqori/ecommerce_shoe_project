@@ -77,22 +77,22 @@ const Shop = () => {
 
   return (
     <div className="mb-10 pt-16">
-      <div className="px-4 pt-4">
+      <div className="pt-4 md:px-4">
         <Breadcrumb />
       </div>
-      <div className="w-full p-5">
-        <div className="flex w-full items-center justify-end px-10 py-1">
+      <div className="w-full p-1 md:p-5">
+        <div className="flex w-full items-center justify-end px-4 py-1 md:px-10">
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="mb-4 ml-2 flex items-center gap-1 border border-black px-5 py-2 font-semibold tracking-wide transition-colors duration-300 ease-in-out hover:border-orange-600 hover:bg-orange-600 hover:text-white"
+            className="mb-4 ml-2 flex items-center gap-1 border border-black px-3 py-2 text-sm font-semibold tracking-wide transition-colors duration-300 ease-in-out hover:border-orange-600 hover:bg-orange-600 hover:text-white md:px-5"
           >
             <FilterAltIcon /> Filter
           </button>
         </div>
-        <div className="relative flex">
+        <div className="relative flex flex-col md:flex-row">
           <div
             className={`${
-              isOpen ? "w-1/5" : "w-0"
+              isOpen ? "w-full md:w-1/4 lg:w-1/5" : "h-0 md:h-fit md:w-0"
             } min-h-full overflow-clip transition-all duration-300 ease-in-out`}
           >
             <div className="sticky top-0 p-2">
@@ -101,8 +101,8 @@ const Shop = () => {
           </div>
           <div
             className={`${
-              isOpen ? "w-4/5" : "w-full"
-            } grid h-full grid-cols-4 gap-2 p-2 transition-all duration-300 ease-in-out`}
+              isOpen ? "w-full md:w-3/4 lg:w-4/5" : "w-full"
+            } grid h-full grid-cols-2 gap-3 transition-all duration-300 ease-in-out sm:grid-cols-2 md:grid-cols-3 md:p-2 lg:grid-cols-4`}
           >
             {currentProducts.length > 0 ? (
               currentProducts.map((product) => (
@@ -127,7 +127,7 @@ const Shop = () => {
               <button
                 key={number}
                 onClick={() => setCurrentPage(number)}
-                className={`mx-1 border px-3 py-1 ${
+                className={`mx-1 border px-2 py-1 text-sm md:px-3 md:py-1 ${
                   currentPage === number
                     ? "bg-gray-500 text-white"
                     : "bg-white text-gray-500"

@@ -94,8 +94,8 @@ const HeaderNav = () => {
 
       {/* Mobile Menu */}
       <div
-        className={`absolute top-0 h-full w-4/5 bg-white px-10 py-5 shadow-lg transition-all duration-300 ease-in-out md:relative md:flex md:h-fit md:w-fit md:px-0 md:py-0 md:shadow-none ${
-          open ? "left-0" : "-left-full md:left-0"
+        className={`absolute top-0 z-[9999] h-full w-4/5 bg-white px-10 py-5 shadow-lg transition-all duration-300 ease-in-out md:relative md:flex md:h-fit md:w-fit md:px-0 md:py-0 md:shadow-none ${
+          open ? "left-0 h-screen w-screen" : "-left-full h-fit w-fit md:left-0"
         }`}
       >
         <div className="flex h-10 items-center justify-end md:hidden">
@@ -114,7 +114,7 @@ const HeaderNav = () => {
           </li>
           <li className="border-orange-600 transition-all duration-100 ease-in-out hover:border-b-2">
             <Link
-              to="/shop"
+              to="/product"
               className="capitalize text-black transition-colors duration-300 ease-in-out hover:text-gray-600"
             >
               shop

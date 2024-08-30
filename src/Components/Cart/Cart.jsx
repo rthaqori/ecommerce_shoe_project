@@ -51,17 +51,17 @@ const Cart = () => {
   };
 
   return (
-    <div className="mx-auto max-w-7xl pt-16">
-      <div className="px-14 pt-8">
+    <div className="mx-auto max-w-7xl px-4 pt-16 sm:px-6 lg:px-8">
+      <div className="pb-4 pt-8 md:pb-0">
         <Breadcrumb />
       </div>
-      <div className="mx-auto mb-10 flex max-w-6xl pt-5">
-        <div className="h-full w-3/5">
-          <div className="mb-3 border border-gray-300 p-3">
-            <h3 className="text-xl font-semibold text-orange-600">
+      <div className="flex flex-col pb-10 md:flex-row md:space-x-8 md:space-y-0">
+        <div className="w-full md:w-3/5">
+          <div className="mb-3 rounded-lg border border-gray-300 p-3">
+            <h3 className="text-lg font-semibold text-orange-600">
               Members get free shipping on orders $50+
             </h3>
-            <p className="text-base text-gray-600">
+            <p className="text-sm text-gray-600">
               Become a Nike Member for fast free shipping on orders $50+{" "}
               <a className="font-semibold underline" href="">
                 Join us
@@ -73,7 +73,7 @@ const Cart = () => {
             </p>
           </div>
           <div className="px-2">
-            <h2 className="text-2xl font-medium">Cart</h2>
+            <h2 className="text-xl font-medium md:text-2xl">Cart</h2>
             {bag.length !== 0 ? (
               <div>
                 {bag.map((product, index) => {
@@ -121,8 +121,8 @@ const Cart = () => {
                 })}
               </div>
             ) : (
-              <div className="flex h-40 w-full flex-col items-center justify-center gap-3">
-                <p className="text-lg text-gray-600">Your wishlist is empty</p>
+              <div className="flex h-40 flex-col items-center justify-center gap-3">
+                <p className="text-lg text-gray-600">Your cart is empty</p>
                 <Link
                   to="/shop"
                   className="rounded-full border border-gray-300 px-4 py-2 text-gray-700 transition-colors duration-200 ease-in-out hover:border-black hover:text-black"
@@ -133,9 +133,9 @@ const Cart = () => {
             )}
           </div>
         </div>
-        <div className="min-h-full w-2/5 px-2">
-          <div className="sticky top-10 px-2">
-            <h3 className="mb-6 text-xl font-semibold">Summary</h3>
+        <div className="w-full px-2 md:w-2/5">
+          <div className="sticky top-10">
+            <h3 className="mb-6 text-lg font-semibold md:text-xl">Summary</h3>
             <div>
               <div className="mb-2 flex justify-between">
                 <span>Subtotal</span>
@@ -157,7 +157,7 @@ const Cart = () => {
             </div>
             <hr className="my-3 border-gray-300" />
             <div>
-              <p className="text-base">
+              <p className="text-sm">
                 Become a Nike Member for fast free shipping on orders $50+{" "}
                 <a className="font-medium text-gray-600 underline" href="">
                   Join us
@@ -167,8 +167,8 @@ const Cart = () => {
                   Sign-in
                 </a>
               </p>
-              <div className="flex items-center gap-3">
-                <div className="my-3 h-2 w-full rounded-full bg-gray-200">
+              <div className="mt-3 flex items-center gap-3">
+                <div className="h-2 w-full rounded-full bg-gray-200">
                   <div
                     className="h-full rounded-full bg-green-700 transition-all duration-300"
                     style={{ width: `${progress}%` }}
@@ -177,11 +177,11 @@ const Cart = () => {
                 <span>$50</span>
               </div>
             </div>
-            <div className="my-5 flex w-full flex-col gap-4">
-              <button className="h-14 w-full rounded-full bg-black font-medium text-white transition-colors duration-300 ease-in-out hover:bg-gray-900">
+            <div className="my-5 flex flex-col gap-4">
+              <button className="h-12 w-full rounded-full bg-black font-medium text-white transition-colors duration-300 ease-in-out hover:bg-gray-900">
                 Checkout
               </button>
-              <button className="h-14 w-full rounded-full bg-black font-medium text-white transition-colors duration-300 ease-in-out hover:bg-gray-900">
+              <button className="h-12 w-full rounded-full bg-black font-medium text-white transition-colors duration-300 ease-in-out hover:bg-gray-900">
                 Paypal
               </button>
             </div>
@@ -215,29 +215,29 @@ const Card = ({
   };
 
   return (
-    <div className="my-6 flex h-44 justify-start gap-4">
-      <div className="h-full">
+    <div className="my-6 flex h-auto justify-start gap-4 rounded-lg bg-gray-50 p-4 shadow-sm sm:h-44 sm:flex-row">
+      <div className="h-32 w-1/3 sm:h-full">
         <Link to={`/product/${id}`}>
-          <img className="h-full object-contain" src={src} alt={name} />
+          <img className="w-full object-contain" src={src} alt={name} />
         </Link>
       </div>
-      <div className="flex h-full flex-col pb-1">
-        <div className="flex flex-col gap-[2px] text-gray-700">
+      <div className="flex w-2/3 flex-col justify-between sm:h-full sm:flex-grow">
+        <div className="flex flex-col gap-0 text-gray-700 md:gap-2">
           <Link to={`/product/${id}`}>
-            <h2 className="font-medium text-black">{name}</h2>
+            <h2 className="text-lg font-medium text-black">{name}</h2>
           </Link>
-          <p>Men's Dri-FIT 5" Brief-Lined Running Shorts</p>
-          <p>{color}</p>
+          <p className="text-sm">Men's Dri-FIT 5" Brief-Lined Running Shorts</p>
+          <p className="text-sm">{color}</p>
           <div>
             <Link to={`/product/${id}`}>
-              <p>
+              <p className="text-sm">
                 Size{" "}
                 <span className="cursor-pointer underline hover:text-gray-500">
                   {size}
                 </span>
               </p>
             </Link>
-            <p>
+            <p className="text-sm">
               Quantity{" "}
               <select
                 className="w-12 cursor-pointer"
@@ -255,25 +255,25 @@ const Card = ({
             </p>
           </div>
         </div>
-        <div className="mt-auto flex gap-3">
+        <div className="mt-2 flex gap-3 md:mt-4">
           <button
-            className="transition-colors duration-300 ease-in-out hover:text-orange-600"
+            className="text-sm transition-colors duration-300 ease-in-out hover:text-orange-600"
             onClick={onFavorite}
           >
             Favorite
           </button>
           <button
-            className="transition-colors duration-300 ease-in-out hover:text-orange-600"
+            className="text-sm transition-colors duration-300 ease-in-out hover:text-orange-600"
             onClick={() => onRemove(index)}
           >
             Remove
           </button>
         </div>
       </div>
-      <div className="ml-auto">
+      <div className="ml-auto self-end font-medium md:text-lg">
         {discount ? (
           <div className="flex gap-3">
-            <span className="font-medium text-gray-600 line-through">
+            <span className="text-gray-600 line-through">
               ${(priceInCents / 100).toFixed(2)}
             </span>
             <span className="text-green-700">
@@ -281,9 +281,7 @@ const Card = ({
             </span>
           </div>
         ) : (
-          <span className="font-medium">
-            ${((priceInCents / 100) * quantity).toFixed(2)}
-          </span>
+          <span>${((priceInCents / 100) * quantity).toFixed(2)}</span>
         )}
       </div>
     </div>

@@ -18,10 +18,10 @@ const SubBannerSection = () => {
     },
   ];
   return (
-    <div className="my-10 grid grid-cols-2 gap-8 px-5">
+    <div className="my-10 flex snap-x snap-mandatory grid-cols-2 overflow-x-scroll md:grid md:gap-8 md:px-5">
       {banners.map((banner) => {
         return (
-          <div key={banner.id}>
+          <div className="shrink-0 basis-full snap-start" key={banner.id}>
             <Banner
               title={banner.title}
               description={banner.description}

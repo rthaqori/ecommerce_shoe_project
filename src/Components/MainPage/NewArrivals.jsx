@@ -31,7 +31,7 @@ const NewArrivals = () => {
 
   return (
     <div className="mx-auto max-w-7xl p-5 pr-0">
-      <div className="flex items-center justify-between pr-20">
+      <div className="flex items-center justify-between pr-6 md:pr-12 lg:pr-20">
         <h1 className="text-4xl font-bold">New Arrivals</h1>
         <div className="space-x-4">
           <button

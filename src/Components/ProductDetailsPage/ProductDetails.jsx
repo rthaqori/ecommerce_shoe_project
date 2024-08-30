@@ -46,14 +46,14 @@ const ProductDetails = () => {
       <div className="pt-8">
         <Breadcrumb />
       </div>
-      <div className="flex gap-x-10 px-12 pb-10 pt-7 lg:pb-14 xl:gap-x-8 2xl:pb-20">
-        <div className="min-h-full w-1/2">
-          <div className="sticky top-10 mx-2 grid h-[555px] grid-cols-12 gap-4 p-2 pl-12">
+      <div className="flex flex-col gap-x-10 pb-10 pt-7 md:px-4 lg:flex-row lg:pb-14 xl:gap-x-8 2xl:pb-20">
+        <div className="w-full lg:w-1/2">
+          <div className="sticky top-10 mx-2 grid grid-cols-12 gap-4 p-2 lg:h-[555px]">
             <div className="col-span-2 flex h-full snap-y snap-mandatory flex-col items-center gap-2 overflow-y-scroll py-[1px]">
               {selectedColor.images.map((img, index) => (
                 <div
                   key={index}
-                  className="max-h-[60px] min-h-[60px] min-w-[60px] max-w-[60px] cursor-pointer snap-start overflow-clip rounded-md bg-gray-100 outline-1 hover:outline"
+                  className="max-h-[50px] min-h-[50px] min-w-[50px] max-w-[50px] cursor-pointer snap-start overflow-clip rounded-md bg-gray-100 outline-1 hover:outline sm:max-h-[60px] sm:min-h-[60px] sm:min-w-[60px] sm:max-w-[60px]"
                   onMouseEnter={() => setCurrentImg(img)}
                 >
                   <img
@@ -73,7 +73,7 @@ const ProductDetails = () => {
             </div>
           </div>
         </div>
-        <div className="w-1/2 p-2">
+        <div className="w-full p-2 lg:w-1/2">
           <div className="mb-4 pb-5">
             <h2 className="text-heading text-lg font-medium md:text-xl lg:text-2xl 2xl:text-3xl">
               {product.name}
@@ -92,7 +92,7 @@ const ProductDetails = () => {
               {product.colors.map((color, colorIndex) => (
                 <li
                   key={colorIndex}
-                  className={`h-[60px] w-[60px] cursor-pointer overflow-clip rounded-md outline-1 hover:outline ${
+                  className={`h-[40px] w-[40px] cursor-pointer overflow-clip rounded-md outline-1 hover:outline sm:h-[60px] sm:w-[60px] ${
                     selectedColorIndex === colorIndex ? "outline" : ""
                   }`}
                   onClick={() => handleColorChange(colorIndex)}
@@ -116,7 +116,7 @@ const ProductDetails = () => {
                   <li
                     key={sizeIndex}
                     onClick={() => handleSizeClick(size.size)}
-                    className={`text-heading mb-2 mr-2 flex h-9 w-9 cursor-pointer items-center justify-center rounded border p-1 text-xs font-semibold uppercase transition duration-200 ease-in-out hover:border-black md:mb-3 md:mr-3 md:h-11 md:w-11 md:text-sm ${
+                    className={`text-heading mb-2 mr-2 flex h-8 w-8 cursor-pointer items-center justify-center rounded border p-1 text-xs font-semibold uppercase transition duration-200 ease-in-out hover:border-black sm:h-9 sm:w-9 md:mb-3 md:mr-3 md:h-11 md:w-11 md:text-sm ${
                       selectedSize === size.size
                         ? "border-black"
                         : "border-gray-300"
@@ -134,7 +134,7 @@ const ProductDetails = () => {
               )}
             </div>
           </div>
-          <div className="space-s-4 3xl:pr-48 flex max-w-md flex-col items-center gap-2 md:pr-32 lg:pr-12 2xl:pr-32">
+          <div className="space-s-4 flex flex-col items-center gap-2 lg:max-w-md">
             <button
               onClick={() =>
                 addToCart(
@@ -147,7 +147,7 @@ const ProductDetails = () => {
                 )
               }
               type="button"
-              className="w-full rounded-full bg-black px-3 py-4 text-lg font-medium text-white shadow-sm hover:bg-black/70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+              className="w-full rounded-full bg-black px-3 py-3 text-lg font-medium text-white shadow-sm hover:bg-black/70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black sm:py-4"
             >
               Add to cart
             </button>
@@ -156,7 +156,7 @@ const ProductDetails = () => {
                 addToFavourite(product, selectedColor, fav, setFav)
               }
               type="button"
-              className="w-full rounded-full border border-gray-300 px-3 py-4 text-lg font-medium text-black shadow-sm transition-colors duration-300 ease-in-out hover:border-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+              className="w-full rounded-full border border-gray-300 px-3 py-3 text-lg font-medium text-black shadow-sm transition-colors duration-300 ease-in-out hover:border-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black sm:py-4"
             >
               Favorite <FavoriteBorderIcon fontSize="medium" />
             </button>
@@ -200,25 +200,11 @@ const ProductDetails = () => {
                 <div className="bg-heading absolute bottom-0 h-full w-0.5 origin-bottom scale-0 transform rounded-sm transition-transform duration-500 ease-in-out"></div>
               </div>
             </header>
-            <div>
-              <div className="pb-6 text-sm leading-7 text-gray-600 md:pb-7">
+            <div className="border-t border-gray-300 transition-all duration-300 ease-in-out">
+              <p className="text-body text-sm leading-7 lg:text-base lg:leading-8">
                 {product.description}
-              </div>
+              </p>
             </div>
-          </div>
-          <div>
-            <header className="flex cursor-pointer items-center justify-between border-t border-gray-300 py-5 transition-colors md:py-6">
-              <h2 className="text-heading pr-2 text-sm font-semibold leading-relaxed md:text-base lg:text-lg">
-                Additional Information
-              </h2>
-            </header>
-          </div>
-          <div>
-            <header className="flex cursor-pointer items-center justify-between border-t border-gray-300 py-5 transition-colors md:py-6">
-              <h2 className="text-heading pr-2 text-sm font-semibold leading-relaxed md:text-base lg:text-lg">
-                About The Brand
-              </h2>
-            </header>
           </div>
         </div>
       </div>

@@ -32,10 +32,10 @@ const BlogSectionComponent = () => {
         </h1>
         <hr className="w-20 border border-orange-500" />
       </div>
-      <div className="grid grid-cols-3 px-5">
+      <div className="flex snap-x snap-mandatory grid-cols-3 overflow-x-scroll md:grid md:px-5">
         {blogs.map((blog) => {
           return (
-            <div key={blog.id}>
+            <div className="shrink-0 basis-full snap-start" key={blog.id}>
               <BlogCard
                 title={blog.title}
                 content={blog.content}
@@ -53,7 +53,7 @@ export default BlogSectionComponent;
 
 const BlogCard = ({ title, content, src }) => {
   return (
-    <div className="px-4">
+    <div className="md:px-4">
       <div className="h-[374px]">
         <img className="h-full w-full object-cover" src={src} alt={src} />
       </div>

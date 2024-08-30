@@ -10,18 +10,20 @@ import WishList from "./Components/WishList/WishList";
 
 const App = () => {
   return (
-    <Router>
-      {/* basename="/ecommerce_shoe_project" */}
-      <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/product/:id" element={<ProductDetails />} />
-        <Route path="/shop" element={<Shop />} />
-        <Route path="/cart" element={<Cart />} />
-        <Route path="/wishlist" element={<WishList />} />
-      </Routes>
-      <Footer />
-    </Router>
+    <div className="overflow-x-clip">
+      <Router>
+        {/* basename="/ecommerce_shoe_project" */}
+        <Header />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/product/:id" element={<ProductDetails />} />
+          <Route path="/product" element={<Shop />} />
+          <Route path="/cart" element={<Cart />} />
+          <Route path="/wishlist" element={<WishList />} />
+        </Routes>
+        <Footer />
+      </Router>
+    </div>
   );
 };
 
